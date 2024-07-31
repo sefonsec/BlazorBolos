@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "hEQ1p6OwGQJGZSerDMHSgVeqrsEdj+KfepqoThqooeU=",
+  "Source": "BlazorBolos",
+  "BasePath": "_content/BlazorBolos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorBolos\\wwwroot",
+      "Source": "BlazorBolos",
+      "ContentRoot": "C:\\Users\\eduardo\\source\\repos\\BlazorBolos\\BlazorBolos\\wwwroot\\",
+      "BasePath": "_content/BlazorBolos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\eduardo\\.nuget\\packages\\mudblazor\\7.0.0\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\eduardo\\.nuget\\packages\\mudblazor\\7.0.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\eduardo\\.nuget\\packages\\mudblazor\\7.0.0\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\eduardo\\.nuget\\packages\\mudblazor\\7.0.0\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\eduardo\\.nuget\\packages\\mudblazor\\7.0.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\eduardo\\.nuget\\packages\\mudblazor\\7.0.0\\staticwebassets\\MudBlazor.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\eduardo\\source\\repos\\BlazorBolos\\BlazorBolos\\wwwroot\\favicon.ico",
+      "SourceId": "BlazorBolos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eduardo\\source\\repos\\BlazorBolos\\BlazorBolos\\wwwroot\\",
+      "BasePath": "_content/BlazorBolos",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

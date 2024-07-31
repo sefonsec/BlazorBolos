@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorBolos", "BlazorBolos\BlazorBolos.csproj", "{77665B80-826A-4B09-891E-141F3240BFA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77665B80-826A-4B09-891E-141F3240BFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77665B80-826A-4B09-891E-141F3240BFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77665B80-826A-4B09-891E-141F3240BFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77665B80-826A-4B09-891E-141F3240BFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {464B3EFC-23F1-4F97-8DFD-C1FBAF04B444}
+	EndGlobalSection
+EndGlobal
